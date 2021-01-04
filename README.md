@@ -22,7 +22,9 @@
 Eso otra  herramienta  para simplificar circuitos 
 
  Se puede realizar una transformación de fuente siempre y cuando se obtenga lo siguiente:
- ! [CONVERCION DE FUENTE](https://github.com/Katherine01-Arevalo/Trabajo_de_Investigacion/blob/main/img/conversion%20de%20fuentes.png)
+ 
+ ! [CONVERCION ](https://github.com/Katherine01-Arevalo/Trabajo_de_Investigacion/blob/main/img/conversion%20de%20fuentes.png)
+ 
  Una fuente de voltaje en serie con una resistencia va a ser equivalente  a una fuente de corriente paralelo con la misma resistencia.
  Si  se desea ir de izquierda a derecha se aplica la ley de Ohm (V=RI)
 
