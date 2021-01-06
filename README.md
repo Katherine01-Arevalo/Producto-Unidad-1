@@ -17,7 +17,7 @@
 ![Delta](https://github.com/Katherine01-Arevalo/Trabajo_de_Investigacion/blob/main/img/Delta.jpg)
 
 **3.DIAGRAMAS**
-
+![Marco](https://github.com/Katherine01-Arevalo/Trabajo_de_Investigacion/blob/main/img/Marco.jpg)
 **4.LISTA DE COMPONENTES**
 
 
