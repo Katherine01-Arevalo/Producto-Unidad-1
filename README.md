@@ -14,6 +14,12 @@
 
 ![Thevenin](https://github.com/Katherine01-Arevalo/Trabajo_de_Investigacion/blob/main/img/Thevenin.jpg)
 
+![Norton](https://github.com/Katherine01-Arevalo/Trabajo_de_Investigacion/blob/main/img/Norton.jpg)
+
+![Potencia_Max](https://github.com/Katherine01-Arevalo/Trabajo_de_Investigacion/blob/main/img/Potencia_Max.jpg)
+
+![Delta](https://github.com/Katherine01-Arevalo/Trabajo_de_Investigacion/blob/main/img/Delta.jpg)
+
 **3.DIAGRAMAS**
 
 **4.LISTA DE COMPONENTES**
