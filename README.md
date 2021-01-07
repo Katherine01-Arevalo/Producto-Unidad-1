@@ -43,6 +43,14 @@ Eso otra  herramienta  para simplificar circuitos
 
 **9.CONCLUSIONES**
 
+- Se  pudo  precisar  cada  uno  de  los  teoremas  planteados  inicialmente  y  facilitar un  documento  de  fácil entendimiento  en  el  campo  de  la teoría  de circuitos eléctricos.
+
+- Con la investigación realizada se logró asimilar cada uno de los teoremas, y así poder identificar cada caso particular de una manera más eficaz.
+
+-	Los teoremas y conversiones expuestos en dicho documento nos facilitaran la resolución de ejercicios de circuitos eléctricos complejos que con llevan más de una malla.
+
+- Mediante ejercicios realizados de manera clara y detallada se complementó el conocimiento adquirido en dicha investigación. 
+
 **10.BIBLIOGRAFÍAS**
 -	 Xnomind. (2019) Teorema de Thevenin explicado para que lo entiendas. Teorema. Recuperado de: https://www.teorema.top/teorema-de-thevenin/
 -	 Carakenio73. (2019) Teorema de Norton-Análisis de circuitos eléctricos. Dademuchconnection. Recuperado de: https://dademuch.com/2019/11/10/teorema-de-norton-analisis-de-circuitos-electricos/
