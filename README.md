@@ -20,10 +20,9 @@
 
 ![Marco](https://github.com/Katherine01-Arevalo/Trabajo_de_Investigacion/blob/main/img/Marco.jpg)
 
-**4.LISTA DE COMPONENTES**
 
 
-**5.EXPLICACIÓN**
+**4.EXPLICACIÓN**
 **Conversión de fuentes** 
 Eso otra  herramienta  para simplificar circuitos 
 
@@ -35,13 +34,21 @@ Eso otra  herramienta  para simplificar circuitos
  Si  se desea ir de izquierda a derecha se aplica la ley de Ohm (V=RI)
 
 
-**6.MANUAL DE USUARIO**
+**5.APORTACIONES**
+SIMULACIÓN PROTEUS  
 
-**7.DESCRIPCIÓN DE PRERREQUISITOS**
+EJERCICIO 9 (capítulo 8)
 
-**8.APORTACIONES**
+Mediante el teorema de superposición  obtener el valor de la corriente en R3  del circuito descrito. 
 
-**9.CONCLUSIONES**
+Verificación del Resultado.
+
+![simulacion](https://github.com/Katherine01-Arevalo/Trabajo_de_Investigacion/blob/main/img/simulacion.png)
+
+
+
+
+**6.CONCLUSIONES**
 
 - Se  pudo  precisar  cada  uno  de  los  teoremas  planteados  inicialmente  y  facilitar un  documento  de  fácil entendimiento  en  el  campo  de  la teoría  de circuitos eléctricos.
 
@@ -51,10 +58,10 @@ Eso otra  herramienta  para simplificar circuitos
 
 - Mediante ejercicios realizados de manera clara y detallada se complementó el conocimiento adquirido en dicha investigación. 
 
-**10.BIBLIOGRAFÍAS**
+**7.BIBLIOGRAFÍAS**
 -	 Xnomind. (2019) Teorema de Thevenin explicado para que lo entiendas. Teorema. Recuperado de: https://www.teorema.top/teorema-de-thevenin/
 -	 Carakenio73. (2019) Teorema de Norton-Análisis de circuitos eléctricos. Dademuchconnection. Recuperado de: https://dademuch.com/2019/11/10/teorema-de-norton-analisis-de-circuitos-electricos/
 -	 La física y química. (s.f.) Teorema de transferencia de potencia máxima. La física y química. Recuperado de: https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
 -	 Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN.  
 
-**11.ANEXOS**
+**8.ANEXOS**
